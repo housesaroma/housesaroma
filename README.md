@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate frontend developer
+## I'm a passionate frontend developer
 
 
 # 💻 Tech Stack:
