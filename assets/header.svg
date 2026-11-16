@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="270" viewBox="0 0 860 270" role="img" aria-label="housesaroma - frontend developer">
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace; font-size: 18px; }
+    .p { fill: #39d353; }
+    .t { fill: #e6edf3; }
+    .d { fill: #8b949e; }
+    .h { fill: #39d353; font-weight: 700; }
+    .ap { opacity: 0; animation: show 0s forwards; }
+    .cur { fill: #39d353; }
+    .blink { animation: blink 1s steps(1) infinite; }
+    @keyframes show { to { opacity: 1; } }
+    @keyframes hide { to { opacity: 0; } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @keyframes k1 { to { transform: translateX(64.8px); } }
+    @keyframes k3 { to { transform: translateX(140.4px); } }
+  </style>
+
+  <rect x="0.5" y="0.5" width="859" height="269" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <path d="M0.5 40 H859.5" stroke="#30363d"/>
+  <circle cx="24" cy="20" r="6" fill="#ff5f57"/>
+  <circle cx="44" cy="20" r="6" fill="#febc2e"/>
+  <circle cx="64" cy="20" r="6" fill="#28c840"/>
+  <text x="430" y="26" text-anchor="middle" class="d" style="font-size:14px">housesaroma - zsh</text>
+
+  <!-- line 1: whoami -->
+  <g class="ap" style="animation-delay:.3s">
+    <text x="32" y="84" class="p" textLength="162" lengthAdjust="spacing">~/housesaroma $</text>
+    <text x="204.8" y="84" class="t" textLength="64.8" lengthAdjust="spacing">whoami</text>
+    <g style="animation:k1 .6s steps(6) .8s forwards">
+      <rect x="204.8" y="64" width="80" height="26" fill="#0d1117"/>
+      <rect x="204.8" y="67" width="10.8" height="21" class="cur" style="animation:hide 0s 1.6s forwards"/>
+    </g>
+  </g>
+
+  <!-- line 2: answer -->
+  <g class="ap" style="animation-delay:1.8s">
+    <text x="32" y="118" class="h" style="font-size:24px">Yakov Kulikov</text>
+    <text x="32" y="146" class="d">frontend developer - React, TypeScript, Angular, Flutter</text>
+  </g>
+
+  <!-- line 3: cat stack.txt -->
+  <g class="ap" style="animation-delay:2.4s">
+    <text x="32" y="186" class="p" textLength="162" lengthAdjust="spacing">~/housesaroma $</text>
+    <text x="204.8" y="186" class="t" textLength="140.4" lengthAdjust="spacing">cat stack.txt</text>
+    <g style="animation:k3 1.3s steps(13) 2.6s forwards">
+      <rect x="204.8" y="166" width="156" height="26" fill="#0d1117"/>
+      <rect x="204.8" y="169" width="10.8" height="21" class="cur" style="animation:hide 0s 4s forwards"/>
+    </g>
+  </g>
+
+  <!-- line 4: stack -->
+  <g class="ap" style="animation-delay:4.2s">
+    <text x="32" y="218" class="t">node.js  firebase  postgres  figma  unity  python</text>
+  </g>
+
+  <!-- line 5: idle prompt -->
+  <g class="ap" style="animation-delay:4.6s">
+    <text x="32" y="250" class="p" textLength="162" lengthAdjust="spacing">~/housesaroma $</text>
+    <rect x="204.8" y="233" width="10.8" height="21" class="cur blink"/>
+  </g>
+</svg>
