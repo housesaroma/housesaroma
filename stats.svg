@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="320" viewBox="0 0 860 320" role="img" aria-label="GitHub stats for housesaroma">
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace; font-size: 15px; }
+    .p { fill: #39d353; } .t { fill: #e6edf3; } .d { fill: #8b949e; } .v { fill: #39d353; font-weight: 700; } .dot { fill: #30363d; }
+    .row { opacity: 0; animation: show .4s forwards; }
+    @keyframes show { to { opacity: 1; } }
+  </style>
+  <rect x="0.5" y="0.5" width="859" height="319" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <path d="M0.5 40 H859.5" stroke="#30363d"/>
+  <circle cx="24" cy="20" r="6" fill="#ff5f57"/><circle cx="44" cy="20" r="6" fill="#febc2e"/><circle cx="64" cy="20" r="6" fill="#28c840"/>
+  <text x="430" y="25" text-anchor="middle" class="d" style="font-size:13px">gh stats housesaroma</text>
+  <text x="32" y="68" class="p">$ gh stats --year</text>
+  <text x="460" y="68" class="p">$ gh langs --top 6</text>
+  <path d="M430 56 V300" stroke="#21262d"/>
+  <g class="row">
+  <text x="32" y="96" class="d">contributions (year)</text><text x="230" y="96" class="dot">..............</text><text x="400" y="96" class="v" text-anchor="end">200</text>
+  <text x="32" y="122" class="d">commits</text><text x="230" y="122" class="dot">..............</text><text x="400" y="122" class="v" text-anchor="end">172</text>
+  <text x="32" y="148" class="d">pull requests</text><text x="230" y="148" class="dot">..............</text><text x="400" y="148" class="v" text-anchor="end">15</text>
+  <text x="32" y="174" class="d">issues</text><text x="230" y="174" class="dot">..............</text><text x="400" y="174" class="v" text-anchor="end">0</text>
+  <text x="32" y="200" class="d">current streak</text><text x="230" y="200" class="dot">..............</text><text x="400" y="200" class="v" text-anchor="end">1 d</text>
+  <text x="32" y="226" class="d">longest streak</text><text x="230" y="226" class="dot">..............</text><text x="400" y="226" class="v" text-anchor="end">3 d</text>
+  <text x="32" y="252" class="d">public repos</text><text x="230" y="252" class="dot">..............</text><text x="400" y="252" class="v" text-anchor="end">22</text>
+  <text x="32" y="278" class="d">stars</text><text x="230" y="278" class="dot">..............</text><text x="400" y="278" class="v" text-anchor="end">4</text>
+  </g>
+  <g class="row" style="animation-delay:.3s">
+  <rect x="460" y="80" width="368" height="10" rx="5" fill="#21262d"/><rect x="460.0" y="80" width="197.7" height="10" fill="#3178c6"/><rect x="657.7" y="80" width="65.5" height="10" fill="#663399"/><rect x="723.2" y="80" width="30.0" height="10" fill="#e34c26"/><rect x="753.1" y="80" width="27.4" height="10" fill="#00B4AB"/><rect x="780.6" y="80" width="23.8" height="10" fill="#41b883"/><rect x="804.4" y="80" width="23.6" height="10" fill="#f1e05a"/>
+  <circle cx="466" cy="119" r="5" fill="#3178c6"/><text x="482" y="124" class="t">TypeScript</text><text x="828" y="124" class="d" text-anchor="end">53.7%</text>
+  <circle cx="466" cy="145" r="5" fill="#663399"/><text x="482" y="150" class="t">CSS</text><text x="828" y="150" class="d" text-anchor="end">17.8%</text>
+  <circle cx="466" cy="171" r="5" fill="#e34c26"/><text x="482" y="176" class="t">HTML</text><text x="828" y="176" class="d" text-anchor="end">8.1%</text>
+  <circle cx="466" cy="197" r="5" fill="#00B4AB"/><text x="482" y="202" class="t">Dart</text><text x="828" y="202" class="d" text-anchor="end">7.5%</text>
+  <circle cx="466" cy="223" r="5" fill="#41b883"/><text x="482" y="228" class="t">Vue</text><text x="828" y="228" class="d" text-anchor="end">6.5%</text>
+  <circle cx="466" cy="249" r="5" fill="#f1e05a"/><text x="482" y="254" class="t">JavaScript</text><text x="828" y="254" class="d" text-anchor="end">6.4%</text>
+  </g>
+  <text x="828" y="306" class="dot" text-anchor="end" style="font-size:11px">updated 2026-11-16</text>
+</svg>
