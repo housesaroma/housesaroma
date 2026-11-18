@@ -17,7 +17,7 @@
   <text x="32" y="122" class="d">commits</text><text x="230" y="122" class="dot">..............</text><text x="400" y="122" class="v" text-anchor="end">173</text>
   <text x="32" y="148" class="d">pull requests</text><text x="230" y="148" class="dot">..............</text><text x="400" y="148" class="v" text-anchor="end">15</text>
   <text x="32" y="174" class="d">issues</text><text x="230" y="174" class="dot">..............</text><text x="400" y="174" class="v" text-anchor="end">0</text>
-  <text x="32" y="200" class="d">current streak</text><text x="230" y="200" class="dot">..............</text><text x="400" y="200" class="v" text-anchor="end">1 d</text>
+  <text x="32" y="200" class="d">current streak</text><text x="230" y="200" class="dot">..............</text><text x="400" y="200" class="v" text-anchor="end">0 d</text>
   <text x="32" y="226" class="d">longest streak</text><text x="230" y="226" class="dot">..............</text><text x="400" y="226" class="v" text-anchor="end">3 d</text>
   <text x="32" y="252" class="d">public repos</text><text x="230" y="252" class="dot">..............</text><text x="400" y="252" class="v" text-anchor="end">22</text>
   <text x="32" y="278" class="d">stars</text><text x="230" y="278" class="dot">..............</text><text x="400" y="278" class="v" text-anchor="end">4</text>
@@ -31,5 +31,5 @@
   <circle cx="466" cy="223" r="5" fill="#41b883"/><text x="482" y="228" class="t">Vue</text><text x="828" y="228" class="d" text-anchor="end">6.5%</text>
   <circle cx="466" cy="249" r="5" fill="#f1e05a"/><text x="482" y="254" class="t">JavaScript</text><text x="828" y="254" class="d" text-anchor="end">6.4%</text>
   </g>
-  <text x="828" y="306" class="dot" text-anchor="end" style="font-size:11px">updated 2026-11-17</text>
+  <text x="828" y="306" class="dot" text-anchor="end" style="font-size:11px">updated 2026-11-18</text>
 </svg>
